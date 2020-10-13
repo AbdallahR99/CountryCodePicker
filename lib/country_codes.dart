@@ -66,7 +66,7 @@ List<Map<String, String>> codes = [
   {"name": "Dominica", "code": "DM", "dial_code": "+1767"},
   {"name": "República Dominicana", "code": "DO", "dial_code": "+1"},
   {"name": "Ecuador", "code": "EC", "dial_code": "+593"},
-  {"name": "مصر‎ Egypt", "code": "EG", "dial_code": "+20"},
+  {"name": " مصر‎ Egypt ", "code": "EG", "dial_code": "+20"},
   {"name": "El Salvador", "code": "SV", "dial_code": "+503"},
   {"name": "Guinea Ecuatorial", "code": "GQ", "dial_code": "+240"},
   {"name": "ኤርትራ Eritrea", "code": "ER", "dial_code": "+291"},
